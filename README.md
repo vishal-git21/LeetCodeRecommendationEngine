@@ -50,6 +50,7 @@ This project is a recommendation engine for LeetCode problems based on a user's 
 LeetCode-Recommendation-Engine/
 ├── index.js                # Entry point of the application
 ├── recommendationLogic.js  # Logic for finding similar problems
+├── AllProblems.json  # Content concerning leetcode problems
 ├── views/
 │   ├── recommendations.ejs # Recommendations page template
 ```
