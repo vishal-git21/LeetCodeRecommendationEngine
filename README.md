@@ -1,5 +1,3 @@
-### `README.md`
-```markdown
 # LeetCode Recommendation Engine
 
 This project is a recommendation engine for LeetCode problems based on a user's recent submissions. It suggests similar problems for the user to solve next, aiming to improve their skills in specific areas.
